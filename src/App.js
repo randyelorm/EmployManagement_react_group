@@ -12,15 +12,15 @@ class App extends Component {
 
       this.state = {
           users: [
-            {
-              first_name: "Yoshi", 
-              last_name: "Odei",
-              email: "yoshi@email.com",
-              number: 244020304 ,
-              home_address: "codetrainHUb",
-              job_role: "Developer",
-              salary: 7000
-            },
+            // {
+            //   first_name: "Yoshi", 
+            //   last_name: "Odei",
+            //   email: "yoshi@email.com",
+            //   number: 244020304 ,
+            //   home_address: "codetrainHUb",
+            //   job_role: "Developer",
+            //   salary: 7000
+            // },
             
             
             
